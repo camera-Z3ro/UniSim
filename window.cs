@@ -1,3 +1,6 @@
+// v0.1.0
+// This file is part of UniSim, a (future) cross-platform simulation framework.
+
 using System;
 using System.Runtime.InteropServices;
 
